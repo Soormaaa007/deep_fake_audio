@@ -140,13 +140,9 @@ This trio provides a strong balance between **simplicity, depth, and modernity**
 
 ---
 
-## ✅ Submission Ready
 
-- [x] Models trained and evaluated
-- [x] Clear analysis with reflection
-- [x] Ready for GitHub submission
 
----
+
 
 ## 📎 Instructions for Reproducibility
 
